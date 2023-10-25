@@ -61,7 +61,7 @@ const index = () => {
                                 })
                             }
 
-                        </Table>
+                            </Table>
                         </div>
                     </div>
                 </div>
